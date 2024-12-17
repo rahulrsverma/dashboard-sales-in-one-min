@@ -1,0 +1,82 @@
+[
+    {
+        "region": "North America",
+        "category": "Electronics",
+        "product": "Smartphone",
+        "sales": 1200,
+        "date": "2024-01-01",
+        "salesperson": "John Doe"
+    },
+    {
+        "region": "Europe",
+        "category": "Electronics",
+        "product": "Laptop",
+        "sales": 1500,
+        "date": "2024-01-02",
+        "salesperson": "Jane Smith"
+    },
+    {
+        "region": "Asia",
+        "category": "Home Appliances",
+        "product": "Refrigerator",
+        "sales": 1000,
+        "date": "2024-01-03",
+        "salesperson": "Michael Lee"
+    },
+    {
+        "region": "North America",
+        "category": "Home Appliances",
+        "product": "Washing Machine",
+        "sales": 800,
+        "date": "2024-01-04",
+        "salesperson": "John Doe"
+    },
+    {
+        "region": "Europe",
+        "category": "Furniture",
+        "product": "Sofa",
+        "sales": 700,
+        "date": "2024-01-05",
+        "salesperson": "Jane Smith"
+    },
+    {
+        "region": "Asia",
+        "category": "Furniture",
+        "product": "Dining Table",
+        "sales": 900,
+        "date": "2024-01-06",
+        "salesperson": "Michael Lee"
+    },
+    {
+        "region": "North America",
+        "category": "Electronics",
+        "product": "Headphones",
+        "sales": 300,
+        "date": "2024-01-07",
+        "salesperson": "John Doe"
+    },
+    {
+        "region": "Europe",
+        "category": "Electronics",
+        "product": "Smartwatch",
+        "sales": 400,
+        "date": "2024-01-08",
+        "salesperson": "Jane Smith"
+    },
+    {
+        "region": "Asia",
+        "category": "Home Appliances",
+        "product": "Microwave",
+        "sales": 350,
+        "date": "2024-01-09",
+        "salesperson": "Michael Lee"
+    },
+    {
+        "region": "North America",
+        "category": "Furniture",
+        "product": "Bookshelf",
+        "sales": 450,
+        "date": "2024-01-10",
+        "salesperson": "John Doe"
+    }
+]
